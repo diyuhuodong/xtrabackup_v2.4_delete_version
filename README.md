@@ -1,0 +1,1 @@
+# xtrabackup_v2.4_delete_version
