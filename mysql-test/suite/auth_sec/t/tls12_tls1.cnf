@@ -1,3 +1,0 @@
-!include include/default_my.cnf
-[ENV]
-OPENSSL_CONF=@env.OPENSSL3_LEGACY_TLS_CNF
